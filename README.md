@@ -1,1 +1,1 @@
-# my-jquery-plugin
+# jquery-plugin
